@@ -32,6 +32,7 @@ import GameConsole from './icons/console.svg';
 import Photo from './icons/photo.svg';
 import Kids from './icons/child.svg';
 import Sale from './icons/sale.svg';
+import MainBanner from './images/main-banner.png';
 
 export {
   RightArrowSlider,
@@ -68,4 +69,5 @@ export {
   Photo,
   Kids,
   Sale,
+  MainBanner,
 };
